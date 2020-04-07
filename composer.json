@@ -1,0 +1,28 @@
+{
+    "name": "ailuoy/neteaseim",
+    "description": "Netease im PHP SDK",
+    "keywords": ["netease", "neteaseim", "ailuoy"],
+    "homepage": "https://github.com/ailuoy/neteaseim",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ailuoy",
+            "email": "ailuoy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "^6.3",
+        "illuminate/validation": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ailuoy\\NeteaseIm\\": "src/"
+        },
+        "files": [
+          "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
