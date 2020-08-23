@@ -2,16 +2,9 @@
     <h1 align="center">NeteaseIm</h1>
 </p>
 
-<p align="center">
-    <a href="https://packagist.org/packages/ailuoy/neteaseim"><img src="https://travis-ci.org/mingyoung/dingtalk.svg" alt="Build Status"></a>
-    <a href="https://scrutinizer-ci.com/g/mingyoung/dingtalk/?branch=master"><img src="https://scrutinizer-ci.com/g/mingyoung/dingtalk/badges/quality-score.png?b=master" alt="Scrutinizer Code Quality"></a>
-    <a href="https://packagist.org/packages/ailuoy/neteaseim"><img src="https://poser.pugx.org/mingyoung/dingtalk/v/stable.svg" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/ailuoy/neteaseim"><img src="https://poser.pugx.org/mingyoung/dingtalk/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/ailuoy/neteaseim"><img src="https://poser.pugx.org/mingyoung/dingtalk/license.svg" alt="License"></a>
-</p>
 
 ## Introduce
-NeteaseIm 封装了网易云信 IM即时通讯API 
+Netease im php sdk 
 
 ## Requirement
 - PHP 7.0+
